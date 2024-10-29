@@ -63,8 +63,8 @@ A comprehensive Formula 1 data analysis and prediction platform built with Strea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/f1-championship-analysis.git
-cd f1-championship-analysis
+git clone vhttps://github.com/pavankumar2004/F1_PREDICTIONS_AND_ANALYSIS.git
+cd F1_PREDICTIONS_AND_ANALYSIS
 ```
 
 2. Install required packages:
