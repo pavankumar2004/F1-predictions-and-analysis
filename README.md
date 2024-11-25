@@ -147,10 +147,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Formula 1 for the historical data
@@ -159,6 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - pk6122004@gmail.com
+Pavan kumar S G- pk6122004@gmail.com
 
 Project Link: [https://github.com/yourusername/f1-championship-analysis](https://github.com/yourusername/f1-championship-analysis)
