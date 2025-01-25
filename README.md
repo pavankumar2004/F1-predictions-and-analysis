@@ -157,4 +157,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Pavan kumar S G- pk6122004@gmail.com
 
-Project Link: [[https://github.com//f1-championship-analysis](https://github.com/pavankumar2004/F1-predictions-and-analysis)]
+Project Link: [https://github.com/pavankumar2004/F1-predictions-and-analysis]
