@@ -1,6 +1,5 @@
 # 🏎️ Formula 1 Championship Analysis (1950-2024)
 
-<img src="https://th.bing.com/th/id/OIP.4z9ecvV_YD9lVcVCyGXoogHaEK?w=1600&h=900&rs=1&pid=ImgDetMain" alt="F1 Championship Analysis Dashboard" />
 
 A comprehensive Formula 1 data analysis and prediction platform built with Streamlit and custom machine learning implementations. This application provides historical insights, predictive analytics, and performance clustering for F1 championship data from 1950 to 2024.
 
