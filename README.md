@@ -31,8 +31,6 @@ A comprehensive Formula 1 data analysis and prediction platform built with Strea
 - 3D visualization of driver performance clusters
 - Detailed cluster analysis
 
-<img src="/api/placeholder/800/400" alt="Driver Performance Clusters" />
-
 ### 🏎️ F1 Car Classification
 - Custom image classification model
 - Support for multiple F1 teams
